@@ -1,6 +1,6 @@
 # demo-library
 
-The app is live at https://sumeets-library.herokuapp.com/
+The app is (hopefully, if Heroku doesn't kill it) live at https://sumeets-library.herokuapp.com/
 
 # How to run locally
 The application is standalone Spring Boot application built by Maven. The repository can be cloned and built using Maven with IDE of choice (I used Eclipse), you can simply run LibraryApplication.java to have it running in your machine. The username-password is admin-admin. 
